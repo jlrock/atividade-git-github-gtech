@@ -1,0 +1,2 @@
+Oi, meu nome é João Lucas e esse é o texto da atividade de Git/GitHub da 
+Unidade 3 do Módulo 1 do curso de Fullstack do programa Geração Tech 4.0
